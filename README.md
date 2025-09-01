@@ -1,8 +1,10 @@
 ## Ola eu sou Emanoel 👋
-.menu{
+<style>
+  .menu{
   text-align: center;
-}
-<div class= menu>
+  }
+</style>
+<div class="menu">
 Hello World!!
 </div>
 
