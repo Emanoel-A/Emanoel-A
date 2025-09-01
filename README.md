@@ -1,8 +1,11 @@
 ## Hi there 👋
+<html>
 <style>
   h1{
-    color:red;
+    text-align: center;
   }
 </style>
+  <body>
 <h1>Emaanoel Araujo</h1>
-
+  </body>
+</html>
