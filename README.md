@@ -1,4 +1,4 @@
-```markdown
+markdown
 <h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
 <h3 align="center">Um desenvolvedor apaixonado por [sua área]</h3>
 
@@ -50,5 +50,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=dark" alt="seuusername" /></p>
-```
+
 
