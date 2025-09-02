@@ -3,7 +3,9 @@
 <h3 align="center">Um desenvolvedor apaixonado por programação</h3>
 
 <p align="center">
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Emanoel-A&theme=onedark" alt="Emanoel-A" />
+  </a>
   </a>
 </p>
 
@@ -48,6 +50,6 @@
   <!-- Adicione mais ícones conforme necessário -->
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=dark" alt="seuusername" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanoel-A&theme=dark" alt="Emanoel-A" /></p>
 
 
