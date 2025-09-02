@@ -9,9 +9,9 @@
   </a>
 </p>
 
-<p align="center">
- 
-</p>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanoel-A&theme=dark" alt="Emanoel-A" /></p>
+
 
 - 🔭 Atualmente estou trabalhando em **[Projeto final do curso tecnico de informática](link)**
 
@@ -50,6 +50,6 @@
   <!-- Adicione mais ícones conforme necessário -->
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emanoel-A&theme=dark" alt="Emanoel-A" /></p>
+
 
 
