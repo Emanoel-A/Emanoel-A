@@ -1,6 +1,6 @@
-markdown
-<h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
-<h3 align="center">Um desenvolvedor apaixonado por [sua área]</h3>
+
+<h1 align="center">Olá 👋, eu sou Emanoel</h1>
+<h3 align="center">Um desenvolvedor apaixonado por programação</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -12,7 +12,7 @@ markdown
   <img src="https://komarev.com/ghpvc/?username=seuusername&label=Profile%20views&color=0e75b6&style=flat" alt="seuusername" /> 
 </p>
 
-- 🔭 Atualmente estou trabalhando em **[Nome do Projeto](link)**
+- 🔭 Atualmente estou trabalhando em **[Projeto final do curso tecnico de informática](link)**
 
 - 🌱 Atualmente estou aprendendo **Tecnologia Nova**
 
