@@ -3,7 +3,7 @@
 <h3 align="center">Um desenvolvedor apaixonado por programação</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=seuusername&theme=onedark" alt="seuusername" />
   </a>
 </p>
