@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusername&label=Profile%20views&color=0e75b6&style=flat" alt="seuusername" /> 
+ 
 </p>
 
 - 🔭 Atualmente estou trabalhando em **[Projeto final do curso tecnico de informática](link)**
