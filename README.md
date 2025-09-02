@@ -25,7 +25,7 @@
 
 - 📝 Escrevo artigos em **[meu blog](link)**
 
-- 💬 Me pergunte sobre **React, Node.js, MongoDB**
+- 💬 Me pergunte sobre **#**
 
 - 📫 Como me contactar **seuemail@email.com**
 
